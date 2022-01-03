@@ -1,0 +1,7 @@
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\bin\Debug\KtraThucHanh_Cau1.exe.config
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\bin\Debug\KtraThucHanh_Cau1.exe
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\bin\Debug\KtraThucHanh_Cau1.pdb
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\obj\Debug\KtraThucHanh_Cau1.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\obj\Debug\KtraThucHanh_Cau1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\obj\Debug\KtraThucHanh_Cau1.exe
+C:\Users\nguye\source\repos\KtraThucHanh_Cau1\KtraThucHanh_Cau1\obj\Debug\KtraThucHanh_Cau1.pdb
